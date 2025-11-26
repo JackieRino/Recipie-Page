@@ -1,0 +1,42 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Fried Rice Recipie</title>
+      <meta charset="utf-8">
+  </head>
+   <body>
+    <main>
+      <h1>Fried Rice Recipe</h1>
+      <p>Lets create this personalized fried rice with everyday ingredients!</p>
+      <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="3 eggs and a whisk on a counter">
+    </main>
+<h2>Ingredients</h2>
+  <ul>
+    <li> Precooked rice 2 cups</li>
+    <li>Diced onions 1 cup</li>
+    <li>Diced green peppers 1 cup</li>
+    <li>Diced yellow peppers 1 cup</li>
+    <li>Vegetable oil 2tbps</li>
+    <li>Diced carrots 1 cup</li>
+    <li>Salt and pepper to taste </li>
+    <li>Spices of your choice</li>
+  </ul>
+ <h2>Instructions</h2>
+   <ol>
+     <li>Preheat oil in sauce pan</li>
+     <li>Add carrots, fry until soft.</li>
+     <li>Add onions, green and yellow peppers.</li>
+     <li>Add salt, pepper and spices</li>
+     <li>Add precooked rice</li>
+     <li>Remove from heat and serve hot</li>
+   </ol>
+
+   <p>Code By: <a href="https://www.freecodecamp.org"> freecodecamp</a>; Created by <a href="https://www.frontendmentor.io/profile/JackieRino"> Siphiwe Jacqueline Rinopisa</a></p>
+    </body>
+
+  </html>
+
+** end of index.html **
+
